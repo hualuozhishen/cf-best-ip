@@ -10,7 +10,7 @@ routes = [
 # KV namespace
 [[kv_namespaces]]
 binding = "KV"
-id = "23c38685383d4d3f8a1391487482e0a9"
+id = "6168625e516842ebbc3b3464c507a9f3"
 
 # Cron Trigger - 每 6 小时拉一次源 + 同步 DNS（偏移 15 分钟避开 hostmonit 整点更新）
 [triggers]
